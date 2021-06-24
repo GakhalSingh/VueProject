@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/logo_ROCM_RGB_WEB.jpg" style="width: 20%; height: 30%;">
+    <HelloWorld msg="ROC Mondriaan Point Collector"/>
   </div>
 </template>
 
@@ -26,3 +26,4 @@ export default {
   margin-top: 60px;
 }
 </style>
+
