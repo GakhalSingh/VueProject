@@ -1,4 +1,4 @@
-# roc_point_collector
+# ROC Point Collector
 
 ## Project setup
 ```
