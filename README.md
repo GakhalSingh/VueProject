@@ -1,4 +1,4 @@
-# projectgurjinder
+# ROC Point Collector
 
 ## Project setup
 ```
